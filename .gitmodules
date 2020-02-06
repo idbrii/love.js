@@ -4,3 +4,6 @@
 [submodule "spec/SUIT"]
 	path = spec/SUIT
 	url = https://github.com/TannerRogalsky/SUIT.git
+[submodule "megasource"]
+	path = megasource
+	url = https://github.com/love2d/megasource.git
