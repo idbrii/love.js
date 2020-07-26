@@ -6,4 +6,7 @@
 	url = https://github.com/TannerRogalsky/SUIT.git
 [submodule "megasource"]
 	path = megasource
-	url = https://github.com/love2d/megasource.git
+	url = https://github.com/Davidobot/megasource.git
+[submodule "love"]
+	path = love
+	url = https://github.com/Davidobot/love.git
